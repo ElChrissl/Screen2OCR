@@ -1,0 +1,3 @@
+Kurztaste um Screenshot zu machen
+Bestätigung für einfügen in Zwischenablage
+Rechtecke in den negativbereich
